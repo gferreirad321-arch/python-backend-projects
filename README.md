@@ -8,19 +8,19 @@ Projeto desenvolvido em Python com integração a banco de dados MySQL.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 - Python
 - MySQL
 - Git e GitHub
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 - Conexão com banco de dados
 - Sistema em terminal
 - Cadastro e consulta de dados
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 Projeto acadêmico desenvolvido para praticar lógica de programação, estrutura de sistemas e banco de dados.
