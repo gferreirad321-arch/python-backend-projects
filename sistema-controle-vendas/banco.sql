@@ -139,17 +139,3 @@ VALUES
 (9, 47, 2, 150.00, 300.00),
 -- Venda 10
 (10, 10, 5, 300.00, 1500.00);*/
-
-
-/*CREATE USER 'gabriel'@'localhost' IDENTIFIED BY '1234';
-
-GRANT ALL PRIVILEGES ON projeto_vendas_eletronicos_unifecaf.* TO 'gabriel'@'localhost';
-
-FLUSH PRIVILEGES;*/
-
-
-/*CREATE USER 'gabriel'@'localhost' IDENTIFIED BY '1234';*/
-
-/*GRANT ALL PRIVILEGES ON *.* TO 'gabriel'@'localhost';*/
-
-/*FLUSH PRIVILEGES;*/
